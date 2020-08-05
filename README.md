@@ -1,4 +1,4 @@
-# Predicting Visual Importance Across Graphic Design Types
+## Predicting Visual Importance Across Graphic Design Types
 
 This repository contains code associated with the project at: http://predimportance.mit.edu/
 
